@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../repo/-benvybz"
+		},
+		{
+			"name": "turikumweben",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "turikumweben"
+	}
+}
